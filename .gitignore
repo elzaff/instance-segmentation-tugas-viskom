@@ -1,0 +1,18 @@
+# Model checkpoints & archives (stored in Google Drive)
+*.pt
+*.pth
+*.onnx
+*.zip
+
+# Large raw prediction caches & dataset image dumps
+results/**/pred_*.json
+eval_outputs/eval/pred_*.json
+**/roboflow*_raw/
+**/data*_clean/
+
+# Python / Jupyter caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

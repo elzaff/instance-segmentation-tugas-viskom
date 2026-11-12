@@ -1,0 +1,11 @@
+ultralytics>=8.4.0
+rfdetr[train]>=1.12
+torch>=2.4
+torchvision>=0.19
+pillow<13
+pycocotools>=2.0.7
+roboflow>=1.2
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+wandb>=0.17
