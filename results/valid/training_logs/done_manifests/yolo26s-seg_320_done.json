@@ -1,0 +1,1 @@
+{"model": "yolo26s-seg", "size": 320, "weights": "/content/work/runs/size_320/yolo26s-seg/weights/best.pt", "sha256": "72e6b45561a555a604e25d830ec0cf0849730d1470a65e1ccbec0028eacbdd97"}

@@ -1,0 +1,1 @@
+{"model": "maskrcnn-v2", "size": 960, "weights": "/content/work/runs/size_960/maskrcnn-v2/best.pt", "sha256": "997e6ff7cd188d0e91c633ecb6899a90e3405995ed02866db4f6cb40c87be5dc", "best_val_mask_mAP": 0.2068708642054881}

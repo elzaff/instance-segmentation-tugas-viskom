@@ -1,0 +1,1 @@
+{"model": "rfdetr-seg-small", "size": 640, "weights": "/content/work/runs/size_640/rfdetr-seg-small/checkpoint_best_total.pth", "sha256": "f57edcc2bf0bd52fc22e55b9c994cc37bf56383f39c574293c30dfc1127db35d", "candidates": ["/content/work/runs/size_640/rfdetr-seg-small/checkpoint_best_total.pth", "/content/work/runs/size_640/rfdetr-seg-small/checkpoint_best_ema.pth"]}
