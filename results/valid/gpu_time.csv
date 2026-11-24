@@ -1,0 +1,10 @@
+model,size,gpu,started_unix,seconds,returncode
+yolo26s-seg,960,0,1795492337,1412,0
+yolo26s-seg,640,0,1795493749,757,0
+yolo26s-seg,320,0,1795494506,731,0
+maskrcnn-v2,960,0,1795495237,1150,0
+maskrcnn-v2,640,0,1795496387,971,0
+maskrcnn-v2,320,0,1795497359,876,0
+rfdetr-seg-small,960,0,1795498235,3424,0
+rfdetr-seg-small,640,0,1795501659,1967,0
+rfdetr-seg-small,320,0,1795503626,1300,0
